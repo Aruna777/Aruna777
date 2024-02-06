@@ -7,13 +7,13 @@ I completed my Master's in Computer Science from Wichita State University. Passi
 
 <h2 align="left"> 🔭 Technical Skills </h2>
 <p align="left"><strong>Programming Languages:</strong>  Python, SQL, Java, C/C++, JavaScript</p>
- <p align="left"> Web Development: HTML5, CSS, React, TypeScript, jQuery, Redux, NodeJS, Express, Spring MVC, Spring Boot, Kubernetes,
+ <p align="left"><strong> Web Development:</strong>  HTML5, CSS, React, TypeScript, jQuery, Redux, NodeJS, Express, Spring MVC, Spring Boot, Kubernetes,
   Material UI, Tailwind CSS, Bootstrap, REST API, GraphQL, Django, Webpack, Grafana, Kibana, Babel</p>
-<p align="left">Machine Learning/Data Analysis: Python- SciKit Learn, Seaborn, TensorFlow, Pandas, NumPy, Matplotlib, Tableau, Excel</p>
-<p align="left">Database/Cloud: AWS, Azure Data Factory, Azure Databricks, Google Cloud Platform, Microsoft SQL Server, MongoDB</p>
-<p align="left">Development Tools: Visual Studio Code, Chrome Developer Tools, Google Colab, Azure Data Studio, Jupyter, Docker, Git</p>
-<p align="left"> Agile Methodologies and Testing: CI/CD, Scrum, Jira, Jenkins, Selenium, Jest</p>
-<p align="left">Operating Systems: Windows, MacOS, Linux </p>
+<p align="left"><strong>Machine Learning/Data Analysis:</strong>  Python- SciKit Learn, Seaborn, TensorFlow, Pandas, NumPy, Matplotlib, Tableau, Excel</p>
+<p align="left"><strong>Database/Cloud: </strong> AWS, Azure Data Factory, Azure Databricks, Google Cloud Platform, Microsoft SQL Server, MongoDB</p>
+<p align="left"><strong>Development Tools: </strong> Visual Studio Code, Chrome Developer Tools, Google Colab, Azure Data Studio, Jupyter, Docker, Git</p>
+<p align="left"> <strong>Agile Methodologies and Testing: </strong> CI/CD, Scrum, Jira, Jenkins, Selenium, Jest</p>
+<p align="left"><strong>Operating Systems: </strong> Windows, MacOS, Linux </p>
 
 
 <h2 align="left"> 📫 Let's Connect </h2>
