@@ -17,6 +17,5 @@ I completed my Master's in Computer Science from Wichita State University. Passi
 
 
 <h2 align="left"> 📫 Let's Connect </h2>
-<p align="left">
-• Email: arunamurugesan03@gmail.com
-•LinkedIn:<a href="https://linkedin.com/in/arunamurugesan" target="blank"> </a></p>
+<a href="https://linkedin.com/in/arunamurugesan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arunamurugesan" height="30" width="40" /></a>
+
