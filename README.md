@@ -17,6 +17,6 @@ I completed my Master's in Computer Science from Wichita State University. Passi
 
 
 <h2 align="left"> 📫 Let's Connect </h2>
-<li>📧 Email: <a href="arunamurugesan03@gmailcom">you@example.com</a></li>
-        <li>💼 LinkedIn Profile: <a href="https://www.linkedin.com/arunamurugesan" target="_blank">Your LinkedIn Profile</a></li>
+<li>📧 Email: <a href="arunamurugesan03@gmailcom">Email</a></li>
+        <li>💼 LinkedIn Profile: <a href="https://www.linkedin.com/arunamurugesan" target="_blank">LinkedIn Profile</a></li>
 
