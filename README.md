@@ -3,7 +3,7 @@
 
 <h2 align="left"> 💬 About Me </h2> 
 <p align="left">
-I completed my Master's in Computer Science from Wichita State University. Passionate about continuous improvement and staying abreast of the latest web development technologies, I am currently focusing on honing my skills in React and machine learning. My goal is to explore innovative ways to enhance user experiences and build even more creative web applications. </p>
+I'm a Master's in Computer Science graduate from Wichita State University. Passionate about continuous improvement and staying abreast of the latest web development technologies, I am currently focusing on honing my skills in React and machine learning. My goal is to explore innovative ways to enhance user experiences and build even more creative web applications. </p>
 
 <h2 align="left"> 🔭 Technical Skills </h2>
 <p align="left"><strong>Programming Languages:</strong>  Python, SQL, Java, C/C++, JavaScript</p>
