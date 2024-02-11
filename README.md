@@ -7,7 +7,7 @@ I'm a Master's in Computer Science graduate from Wichita State University. Passi
 
 <h2 align="left"> 🔭 Technical Skills </h2>
 <p align="left"><strong>Programming Languages:</strong>  Python, SQL, Java, C/C++, JavaScript</p>
- <p align="left"><strong> Web Development:</strong>  HTML5, CSS, React, TypeScript, jQuery, Redux, NodeJS, Express, Spring MVC, Spring Boot, Kubernetes,
+ <p align="left"><strong> Web Development:</strong>  HTML5, CSS, React, TypeScript, NextJS, SaaS, jQuery, Redux, NodeJS, Express, Spring MVC, Spring Boot, Kubernetes,
   Material UI, Tailwind CSS, Bootstrap, REST API, GraphQL, Django, Webpack, Grafana, Kibana, Babel</p>
 <p align="left"><strong>Machine Learning/Data Analysis:</strong>  Python- SciKit Learn, Seaborn, TensorFlow, Pandas, NumPy, Matplotlib, Tableau, Excel</p>
 <p align="left"><strong>Database/Cloud: </strong> AWS, Azure Data Factory, Azure Databricks, Google Cloud Platform, Microsoft SQL Server, MongoDB</p>
